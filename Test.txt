@@ -1,9 +1,8 @@
-This is my sample code.This is to learn Git.
 
-I learnt  following Git commands  today
 
-1.git init
-2.git add
-3.git commit
+
+
 
 My new line
+Go Ahead.All the best.
+
