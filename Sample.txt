@@ -1,6 +1,6 @@
 This is sample code.This is for learning git.
 
-I learnt following git  commands.
-git init
-git add filename.extention
-git commit   -m "message"
+ok,go ahead with Git learning at the earliest.
+
+Tamil Thesam
+
